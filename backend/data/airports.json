@@ -1,0 +1,650 @@
+[
+  {
+    "country": "Australia",
+    "city": "Melbourne",
+    "airport": "Melbourne International airport",
+    "iata_code": "MEL",
+    "latitude": -37.6733,
+    "longitude": 144.8433
+  },
+  {
+    "country": "Australia",
+    "city": "Sydney",
+    "airport": "Sydney International airport",
+    "iata_code": "SYD",
+    "latitude": -33.9399,
+    "longitude": 151.1753
+  },
+  {
+    "country": "Austria",
+    "city": "Vienna",
+    "airport": "Vienna International airport",
+    "iata_code": "VIE",
+    "latitude": 48.1103,
+    "longitude": 16.5697
+  },
+  {
+    "country": "Bahrain",
+    "city": "Manama",
+    "airport": "Bahrain International airport",
+    "iata_code": "BAH",
+    "latitude": 26.2708,
+    "longitude": 50.6336
+  },
+  {
+    "country": "Belgium",
+    "city": "Brussels",
+    "airport": "Brussels International airport",
+    "iata_code": "BRU",
+    "latitude": 50.9014,
+    "longitude": 4.4844
+  },
+  {
+    "country": "Canada",
+    "city": "Toronto",
+    "airport": "Toronto Pearson International airport",
+    "iata_code": "YYZ",
+    "latitude": 43.6777,
+    "longitude": -79.6248
+  },
+  {
+    "country": "China",
+    "city": "Beijing",
+    "airport": "Beijing Daxing International airport",
+    "iata_code": "PKX",
+    "latitude": 39.5098,
+    "longitude": 116.4109
+  },
+  {
+    "country": "Denmark",
+    "city": "Copenhagen",
+    "airport": "Copenhagen International airport",
+    "iata_code": "CPH",
+    "latitude": 55.6181,
+    "longitude": 12.6561
+  },
+  {
+    "country": "Egypt",
+    "city": "Cairo",
+    "airport": "Cairo International airport",
+    "iata_code": "CAI",
+    "latitude": 30.1219,
+    "longitude": 31.4056
+  },
+  {
+    "country": "Germany",
+    "city": "D\u00fcsseldorf",
+    "airport": "D\u00fcsseldorf International airport",
+    "iata_code": "DUS",
+    "latitude": 51.2895,
+    "longitude": 6.7668
+  },
+  {
+    "country": "Germany",
+    "city": "Munich",
+    "airport": "Munich International airport",
+    "iata_code": "MUC",
+    "latitude": 48.3538,
+    "longitude": 11.7861
+  },
+  {
+    "country": "Greece",
+    "city": "Athens",
+    "airport": "Athens International airport",
+    "iata_code": "ATH",
+    "latitude": 37.9364,
+    "longitude": 23.9475
+  },
+  {
+    "country": "India",
+    "city": "Ahmedabad",
+    "airport": "Sardar Vallabhbhai Patel International airport",
+    "iata_code": "AMD",
+    "latitude": 23.0772,
+    "longitude": 72.6347
+  },
+  {
+    "country": "India",
+    "city": "Bengaluru",
+    "airport": "Kempegowda International airport",
+    "iata_code": "BLR",
+    "latitude": 13.1986,
+    "longitude": 77.7066
+  },
+  {
+    "country": "India",
+    "city": "Chennai",
+    "airport": "Chennai International airport",
+    "iata_code": "MAA",
+    "latitude": 12.99,
+    "longitude": 80.1693
+  },
+  {
+    "country": "India",
+    "city": "Delhi",
+    "airport": "Indira Gandhi International airport",
+    "iata_code": "DEL",
+    "latitude": 28.5562,
+    "longitude": 77.1
+  },
+  {
+    "country": "India",
+    "city": "Hyderabad",
+    "airport": "Rajiv Gandhi International airport",
+    "iata_code": "HYD",
+    "latitude": 17.2403,
+    "longitude": 78.4294
+  },
+  {
+    "country": "India",
+    "city": "Mumbai",
+    "airport": "Chhatrapati Shivaji Maharaj International airport",
+    "iata_code": "BOM",
+    "latitude": 19.0896,
+    "longitude": 72.8656
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "airport": "Soekarno\u2013Hatta International airport",
+    "iata_code": "CGK",
+    "latitude": -6.1256,
+    "longitude": 106.6559
+  },
+  {
+    "country": "Ireland",
+    "city": "Dublin",
+    "airport": "Dublin International airport",
+    "iata_code": "DUB",
+    "latitude": 53.4213,
+    "longitude": -6.2701
+  },
+  {
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "airport": "Ben Gurion International airport",
+    "iata_code": "TLV",
+    "latitude": 32.0114,
+    "longitude": 34.8867
+  },
+  {
+    "country": "Japan",
+    "city": "Tokyo",
+    "airport": "Narita International airport",
+    "iata_code": "NRT",
+    "latitude": 35.7719,
+    "longitude": 140.3929
+  },
+  {
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "airport": "Kuala Lumpur International airport",
+    "iata_code": "KUL",
+    "latitude": 2.7456,
+    "longitude": 101.7094
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "airport": "London Heathrow airport",
+    "iata_code": "LHR",
+    "latitude": 51.47,
+    "longitude": -0.4543
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Manchester",
+    "airport": "Manchester airport",
+    "iata_code": "MAN",
+    "latitude": 53.365,
+    "longitude": -2.272
+  },
+  {
+    "country": "United States",
+    "city": "New York city",
+    "airport": "John F. Kennedy International airport",
+    "iata_code": "JFK",
+    "latitude": 40.6413,
+    "longitude": -73.7781
+  },
+  {
+    "country": "United States",
+    "city": "Chicago",
+    "airport": "O'Hare International airport",
+    "iata_code": "ORD",
+    "latitude": 41.9786,
+    "longitude": -87.9048
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "airport": "Abu Dhabi International airport",
+    "iata_code": "AUH",
+    "latitude": 24.4539,
+    "longitude": 54.3773
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Addis Ababa",
+    "airport": "Addis Ababa Bole International Airport",
+    "iata_code": "ADD",
+    "latitude": 8.9778,
+    "longitude": 38.7993
+  },
+  {
+    "country": "Spain",
+    "city": "M\u00e1laga",
+    "airport": "M\u00e1laga\u2013Costa del Sol Airport",
+    "iata_code": "AGP",
+    "latitude": 36.6749,
+    "longitude": -4.4991
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "airport": "Houari Boumediene Airport",
+    "iata_code": "ALG",
+    "latitude": 36.691,
+    "longitude": 3.2154
+  },
+  {
+    "country": "Jordan",
+    "city": "Amman",
+    "airport": "Queen Alia International Airport",
+    "iata_code": "AMM",
+    "latitude": 31.7226,
+    "longitude": 35.9932
+  },
+  {
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "airport": "Amsterdam Airport Schiphol",
+    "iata_code": "AMS",
+    "latitude": 52.3105,
+    "longitude": 4.7683
+  },
+  {
+    "country": "Turkey",
+    "city": "Antalya",
+    "airport": "Antalya Airport",
+    "iata_code": "AYT",
+    "latitude": 36.8987,
+    "longitude": 30.8005
+  },
+  {
+    "country": "Lebanon",
+    "city": "Beirut",
+    "airport": "Beirut\u2013Rafic Hariri International Airport",
+    "iata_code": "BEY",
+    "latitude": 33.8209,
+    "longitude": 35.4884
+  },
+  {
+    "country": "Thailand",
+    "city": "Bangkok",
+    "airport": "Suvarnabhumi Airport",
+    "iata_code": "BKK",
+    "latitude": 13.69,
+    "longitude": 100.7501
+  },
+  {
+    "country": "United States",
+    "city": "Boston",
+    "airport": "Logan International Airport",
+    "iata_code": "BOS",
+    "latitude": 42.3656,
+    "longitude": -71.0096
+  },
+  {
+    "country": "India",
+    "city": "Kolkata",
+    "airport": "Netaji Subhas Chandra Bose International Airport",
+    "iata_code": "CCU",
+    "latitude": 22.6547,
+    "longitude": 88.4467
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "airport": "Charles de Gaulle Airport",
+    "iata_code": "CDG",
+    "latitude": 49.0097,
+    "longitude": 2.5479
+  },
+  {
+    "country": "Sri Lanka",
+    "city": "Colombo",
+    "airport": "Bandaranaike International Airport",
+    "iata_code": "CMB",
+    "latitude": 7.1808,
+    "longitude": 79.8841
+  },
+  {
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "airport": "Chiang Mai International Airport",
+    "iata_code": "CNX",
+    "latitude": 18.7668,
+    "longitude": 98.9626
+  },
+  {
+    "country": "India",
+    "city": "Kochi",
+    "airport": "Cochin International Airport",
+    "iata_code": "COK",
+    "latitude": 10.152,
+    "longitude": 76.4019
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "airport": "Hazrat Shahjalal International Airport",
+    "iata_code": "DAC",
+    "latitude": 23.8433,
+    "longitude": 90.3978
+  },
+  {
+    "country": "Qatar",
+    "city": "Doha",
+    "airport": "Hamad International Airport",
+    "iata_code": "DOH",
+    "latitude": 25.2736,
+    "longitude": 51.6081
+  },
+  {
+    "country": "Indonesia",
+    "city": "Denpasar",
+    "airport": "Ngurah Rai International Airport",
+    "iata_code": "DPS",
+    "latitude": -8.7482,
+    "longitude": 115.1675
+  },
+  {
+    "country": "Italy",
+    "city": "Rome",
+    "airport": "Leonardo da Vinci International Airport",
+    "iata_code": "FCO",
+    "latitude": 41.8003,
+    "longitude": 12.2389
+  },
+  {
+    "country": "Germany",
+    "city": "Frankfurt",
+    "airport": "Frankfurt am Main Airport",
+    "iata_code": "FRA",
+    "latitude": 50.0379,
+    "longitude": 8.5622
+  },
+  {
+    "country": "Switzerland",
+    "city": "Geneva",
+    "airport": "Geneva Airport",
+    "iata_code": "GVA",
+    "latitude": 46.2381,
+    "longitude": 6.109
+  },
+  {
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "airport": "Noi Bai International Airport",
+    "iata_code": "HAN",
+    "latitude": 21.2212,
+    "longitude": 105.8067
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Hong Kong",
+    "airport": "Hong Kong International Airport",
+    "iata_code": "HKG",
+    "latitude": 22.308,
+    "longitude": 113.9185
+  },
+  {
+    "country": "South Korea",
+    "city": "Seoul",
+    "airport": "Incheon International Airport",
+    "iata_code": "ICN",
+    "latitude": 37.4602,
+    "longitude": 126.4407
+  },
+  {
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "airport": "Islamabad International Airport",
+    "iata_code": "ISB",
+    "latitude": 33.549,
+    "longitude": 72.8258
+  },
+  {
+    "country": "Turkey",
+    "city": "Istanbul",
+    "airport": "Istanbul Airport",
+    "iata_code": "IST",
+    "latitude": 41.2753,
+    "longitude": 28.7529
+  },
+  {
+    "country": "India",
+    "city": "Jaipur",
+    "airport": "Jaipur International Airport",
+    "iata_code": "JAI",
+    "latitude": 26.8242,
+    "longitude": 75.8122
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "airport": "King Abdulaziz International Airport",
+    "iata_code": "JED",
+    "latitude": 21.6796,
+    "longitude": 39.1565
+  },
+  {
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "airport": "OR Tambo International Airport",
+    "iata_code": "JNB",
+    "latitude": -26.1367,
+    "longitude": 28.241
+  },
+  {
+    "country": "Greece",
+    "city": "Santorini",
+    "airport": "Santorini (Thira) National Airport",
+    "iata_code": "JTR",
+    "latitude": 36.3992,
+    "longitude": 25.4793
+  },
+  {
+    "country": "Pakistan",
+    "city": "Karachi",
+    "airport": "Jinnah International Airport",
+    "iata_code": "KHI",
+    "latitude": 24.9065,
+    "longitude": 67.1608
+  },
+  {
+    "country": "Japan",
+    "city": "Osaka",
+    "airport": "Kansai International Airport",
+    "iata_code": "KIX",
+    "latitude": 34.4273,
+    "longitude": 135.244
+  },
+  {
+    "country": "Indonesia",
+    "city": "Medan",
+    "airport": "Kuala Namu International Airport",
+    "iata_code": "KNO",
+    "latitude": 3.643,
+    "longitude": 98.8853
+  },
+  {
+    "country": "Kuwait",
+    "city": "Kuwait City",
+    "airport": "Kuwait International Airport",
+    "iata_code": "KWI",
+    "latitude": 29.2266,
+    "longitude": 47.9689
+  },
+  {
+    "country": "Pakistan",
+    "city": "Lahore",
+    "airport": "Allama Iqbal International Airport",
+    "iata_code": "LHE",
+    "latitude": 31.5216,
+    "longitude": 74.4036
+  },
+  {
+    "country": "Spain",
+    "city": "Madrid",
+    "airport": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport",
+    "iata_code": "MAD",
+    "latitude": 40.472,
+    "longitude": -3.5608
+  },
+  {
+    "country": "Oman",
+    "city": "Muscat",
+    "airport": "Muscat International Airport",
+    "iata_code": "MCT",
+    "latitude": 23.5933,
+    "longitude": 58.2844
+  },
+  {
+    "country": "Maldives",
+    "city": "Mal\u00e9",
+    "airport": "Velana International Airport",
+    "iata_code": "MLE",
+    "latitude": 4.1918,
+    "longitude": 73.5291
+  },
+  {
+    "country": "Philippines",
+    "city": "Manila",
+    "airport": "Ninoy Aquino International Airport",
+    "iata_code": "MNL",
+    "latitude": 14.5086,
+    "longitude": 121.0198
+  },
+  {
+    "country": "Italy",
+    "city": "Milan",
+    "airport": "Milan Malpensa Airport",
+    "iata_code": "MXP",
+    "latitude": 45.6306,
+    "longitude": 8.7281
+  },
+  {
+    "country": "Kenya",
+    "city": "Nairobi",
+    "airport": "Jomo Kenyatta International Airport",
+    "iata_code": "NBO",
+    "latitude": -1.33,
+    "longitude": 36.93
+  },
+    {
+    "country": "Tunisia",
+    "city": "Tunis",
+    "airport": "Tunis-Carthage International Airport",
+    "iata_code": "TUN",
+    "latitude": 36.8476,
+    "longitude": 10.2176
+  },
+    {
+    "country": "Seychelles",
+    "city": "Victoria",
+    "airport": "Seychelles International Airport",
+    "iata_code": "SEZ",
+    "latitude": 4.6709,
+    "longitude": 55.5115
+  },
+    {
+    "country": "Thailand",
+    "city": "Krabi",
+    "airport": "Krabi International Airport",
+    "iata_code": "KBV",
+    "latitude": 8.0993,
+    "longitude": 98.9832
+  },
+    {
+    "country": "Thailand",
+    "city": "Phuket",
+    "airport": "Phuket International Airport",
+    "iata_code": "HKT",
+    "latitude": 8.1053,
+    "longitude": 98.3054
+  },
+    {
+    "country": "China",
+    "city": "Shanghai",
+    "airport": "Shanghai Pudong International Airport",
+    "iata_code": "PVG",
+    "latitude": 31.1443,
+    "longitude": 121.8083
+  },
+    {
+    "country": "Taiwan",
+    "city": "Taipei",
+    "airport": "Taoyuan International Airport",
+    "iata_code": "TPE",
+    "latitude": 25.0805,
+    "longitude": 121.2312
+  },
+    {
+    "country": "India",
+    "city": "Thiruvananthapuram",
+    "airport": "Thiruvananthapuram International Airport",
+    "iata_code": "TRV",
+    "latitude": 8.4871,
+    "longitude": 76.9220
+  },
+    {
+    "country": "Saudi Arabia",
+    "city": "Buraydah",
+    "airport": "Prince Naif Bin Abdulaziz International Airport",
+    "iata_code": "ELQ",
+    "latitude": 26.3052,
+    "longitude": 43.7686
+  },
+    {
+    "country": "Saudi Arabia",
+    "city": "Dammam",
+    "airport": "Dammam International Airport",
+    "iata_code": "DMM",
+    "latitude": 26.4700,
+    "longitude": 49.7984
+  },
+    {
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "airport": "King Khalid International Airport",
+    "iata_code": "RUH",
+    "latitude": 24.9594,
+    "longitude": 46.7011
+  },
+    {
+    "country": "Greece",
+    "city": "Mykonos",
+    "airport": "Mykonos International Airport",
+    "iata_code": "JMK",
+    "latitude": 37.4342,
+    "longitude": 25.3461
+  },
+    {
+    "country": "Poland",
+    "city": "Warsaw",
+    "airport": "Warsaw Chopin Airport",
+    "iata_code": "WAW",
+    "latitude": 52.1649,
+    "longitude": 20.9692
+  },
+    {
+    "country": "Switzerland",
+    "city": "Zurich",
+    "airport": "Zurich Airport",
+    "iata_code": "ZRH",
+    "latitude": 47.4617,
+    "longitude": 8.5509
+  }
+]
