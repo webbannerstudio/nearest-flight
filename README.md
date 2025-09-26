@@ -4,8 +4,10 @@ The Nearest Flight API demonstrates how location-based targeting can power onlin
 
 It works by detecting a user’s location with IP2Location, finding the nearest airport in the same country, and returning a flight from a local pricing map.
 
-In a production scenario, replace the sample data with live fares from an airline’s API or a public service like Sky-Scrapper on RapidAPI.  
-For this demo, a static flights.json file is included to keep everything self-contained and easy to test.
+In a production scenario, replace the sample data with live fares from an airline’s API or a public service like Sky-Scrapper on RapidAPI. 
+
+For this demo, a static flights.json file is included to keep everything self-contained and easy to test. There is also an airports.json that contains 83 airports, providing the reference data needed to locate the nearest airport for any given user.
+
 
 ---
 
