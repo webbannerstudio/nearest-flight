@@ -36,7 +36,7 @@ For this demo, a static flights.json file is included to keep everything self-co
    source .venv/bin/activate
 
 4. Configure environment
-   cp .env.example .env
+   cp backend/.env.example backend/.env
 
    Edit .env as needed:
    IP2LOCATION_API_KEY=...              # optional; fallback location = London, GB
