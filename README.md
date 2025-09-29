@@ -12,8 +12,8 @@ For this demo, a static flights.json file is included to keep everything self-co
 ---
 
 ## Features
-- Detects user geolocation from IP address  
-- Finds the nearest airport from the user’s country; returns the distance  
+- Detects user co-ordinates from IP address  
+- Finds the nearest airport from the user’s location; returns the distance  
 - Fare lookup from a pricing map keyed as <ORIGIN>-<DESTINATION> (e.g. LHR-AUH)  
 - FastAPI app with interactive Swagger/OpenAPI docs at /docs  
 
