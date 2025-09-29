@@ -26,6 +26,14 @@ For this demo, a static flights.json file is included to keep everything self-co
 
 3. Install dependencies
    pip install -r backend/requirements.txt
+   cd nearest-flight
+   python -m venv .venv
+
+   # Activate venv
+   # Windows:
+   .\.venv\Scripts\activate
+   # macOS/Linux:
+   source .venv/bin/activate
 
 4. Configure environment
    cp .env.example .env
