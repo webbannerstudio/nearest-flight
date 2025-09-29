@@ -25,7 +25,7 @@ For this demo, a static flights.json file is included to keep everything self-co
    git clone https://github.com/webbannerstudio/nearest-flight.git
 
 3. Install dependencies
-   pip install -r requirements.txt
+   pip install -r backend/requirements.txt
 
 4. Configure environment
    cp .env.example .env
