@@ -40,7 +40,7 @@ For this demo, a static flights.json file is included to keep everything self-co
 
    Edit .env as needed:
    IP2LOCATION_API_KEY=...              # optional; fallback location = London, GB
-   PRICING_MAP_PATH=backend/data/flights.json   # optional; default
+   PRICING_MAP_PATH=data/flights.json   # optional; default
 
 5. Run the API
    uvicorn backend.app:app --reload
