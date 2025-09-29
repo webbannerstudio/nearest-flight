@@ -25,8 +25,8 @@ For this demo, a static flights.json file is included to keep everything self-co
    git clone https://github.com/webbannerstudio/nearest-flight.git
 
 3. Install dependencies
-   pip install -r backend/requirements.txt
    cd nearest-flight
+   pip install -r backend/requirements.txt
    python -m venv .venv
 
    # Activate venv
